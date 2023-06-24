@@ -19,15 +19,15 @@ const Feed = () => {
             </div>
             <div className='w-1/2'>
                 <a href='/' className='flex p-5 pt-0'>
-                    <img src='/images/sb-img.jpg' className='w-2/6 min-w-[25%] mt-0'/>
+                    <img src='/images/img-2.jpeg' className='w-2/6 min-w-[25%] mt-0'/>
                     <p>Other News Heading</p>
                 </a>
                 <a href='/' className='flex p-5 pt-0'>
-                    <img src='/images/sb-img.jpg' className='w-2/6 min-w-[25%]'/>
+                    <img src='/images/img-3.jpg' className='w-2/6 min-w-[25%]'/>
                     <p>Other News Heading</p>
                 </a>
                 <a href='/' className='flex p-5 pt-0'>
-                    <img src='/images/sb-img.jpg' className='w-2/6 min-w-[25%]'/>
+                    <img src='/images/img-4.jpeg' className='w-2/6 min-w-[25%]'/>
                     <p>Other News Heading</p>
                 </a>
             </div>
