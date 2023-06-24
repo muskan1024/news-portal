@@ -4,6 +4,7 @@ import Header from '@/components/Header'
 import Feed from '@/components/Feed'
 import Footer from '@/components/Footer'
 import Opinions from '@/components/Opinions'
+import Culture from '@/components/Culture'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -13,6 +14,7 @@ export default function Home() {
       <Header />
       <Feed />
       <Opinions />
+      <Culture />
       <Footer />
     </main>
   )

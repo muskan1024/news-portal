@@ -2,6 +2,8 @@ import React from 'react'
 
 const Opinions = () => {
   return (
+    <div className='h-full w-full text-5xl bg-white text-black mx-5 '>
+        <h1 className='font-serif bg-white text-black border border-b-black mx-5'><i>Opinions</i></h1>
     <div className=" grid lg:grid-cols-3 grid-cols-2 gap-30 mx-12 mt-6 ">
 
       <div className="bg-white h-[60%] ">
@@ -61,7 +63,7 @@ const Opinions = () => {
     </div>
 
 
-
+</div>
 
     
     
